@@ -1,0 +1,48 @@
+For the query genome: 10_33 
+Genome size: 4059816 
+Genome size, with no Ns: 4059816
+Number of fragments: 8127 
+For the query genome: 23_GOM_1509m 
+Genome size: 4064205 
+Genome size, with no Ns: 4064145
+Number of fragments: 8143 
+For the query genome: 2ta16 
+Genome size: 6364400 
+Genome size, with no Ns: 6364398
+Number of fragments: 12791 
+For the query genome: 13_15 
+Genome size: 4201303 
+Genome size, with no Ns: 4164000
+Number of fragments: 8343 
+For the query genome: 23_GOM_1509m 
+Genome size: 4064205 
+Genome size, with no Ns: 4064145
+Number of fragments: 8143 
+For the query genome: 2ta16 
+Genome size: 6364400 
+Genome size, with no Ns: 6364398
+Number of fragments: 12791 
+For the query genome: 13_15 
+Genome size: 4201303 
+Genome size, with no Ns: 4164000
+Number of fragments: 8343 
+For the query genome: 10_33 
+Genome size: 4059816 
+Genome size, with no Ns: 4059816
+Number of fragments: 8127 
+For the query genome: 2ta16 
+Genome size: 6364400 
+Genome size, with no Ns: 6364398
+Number of fragments: 12791 
+For the query genome: 13_15 
+Genome size: 4201303 
+Genome size, with no Ns: 4164000
+Number of fragments: 8343 
+For the query genome: 10_33 
+Genome size: 4059816 
+Genome size, with no Ns: 4059816
+Number of fragments: 8127 
+For the query genome: 23_GOM_1509m 
+Genome size: 4064205 
+Genome size, with no Ns: 4064145
+Number of fragments: 8143 

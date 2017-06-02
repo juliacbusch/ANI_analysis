@@ -1,0 +1,4 @@
+10_33	fasta/10_33.fasta
+13_15	fasta/13_15.fasta
+23_GOM_1509m	fasta/23_GOM_1509m.fasta
+2ta16	fasta/2ta16.fasta
